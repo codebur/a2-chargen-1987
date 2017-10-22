@@ -1,4 +1,4 @@
-#Apple // Character Generator for HGR#
+# Apple // Character Generator for HGR
 
 - Author: Urs Hochstrasser
 - Date: 1987
